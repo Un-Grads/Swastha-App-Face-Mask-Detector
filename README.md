@@ -1,6 +1,6 @@
 # Swastha-App-Face-Mask-Detector-with-Python-and-Machine-Learning-AI-Computer-Vision-Team-Un-Grads-Reva-University
 # Team Un-Grads:
-we are 4 students studying Computer Science and Engineering at Reva University, Bangalore. known each other from past 2 years and have same intersts in learning programing and coding in Hackathon. we as a team have intersts in developing Applications in AI & ML and implement them to make betterment in  technology.
+we are Group of 4 students studying Computer Science and Engineering at Reva University, Bangalore. known each other from past 2 years and have same intersts in learning programing and coding in Hackathon. we as a team have intersts in developing Applications in AI & ML and implement them to make betterment in  technology.
 
 Team members:
 Shashank K S ,  Siddesh B R ,  Shaik Sahil Amhed ,Shashidhar Reddy
