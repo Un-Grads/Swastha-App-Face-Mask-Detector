@@ -24,4 +24,4 @@ This system can therefore be used in real-time applications which require face-m
 This dataset consists of 3835 images belonging to two classes:
 with_mask: 1916 images
 without_mask: 1919 images
-we have collected all the images from google,Unsplash,Free Images,Burst,Canva and sperated them into two folders with_mask and without_mask in data set  folder.
+we have collected all the images from google , Unsplash , Free Images , Burst , Canva and sperated them into two folders with_mask and without_mask in data set folder.
