@@ -35,7 +35,7 @@ We have divided two Phases in Swastha App (Face Mask Detector):
 Phase 1: Train the Face Mask Detector –-we load the face mask data set having images of with mask and without mask collected from google and other sources and Train the face mask classifier with keras / Tenser Flow. Later Serialize face mask classifier to disk.
 Phase 2: Apply Face Mask Detector – Load face mask classifier from disk and detect faces in image / video stream. Extract each face ROI and apply face mask classifier to each face ROI to determine mask or no mask . results are shown using web Camera whether a person is wearing a face mask or not with percentage Accuracy. 
 # Programing Language : Python 
-# Results: 
+# Conclusion :
 As the technology are blooming with emerging trends the availability so we have novel face mask detector which can possibly contribute to public healthcare. The architecture
 consists of MobileNet as the backbone it can be used for high and low computation scenarios. In order to extract more robust features, we utilize transfer learning to adopt weights from a similar task face detection, which is trained on a very large dataset.
 
